@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **react, next, JavaScript, tailwind, API's, UI/UX design tools...**
 
-- 📫 How to reach me **junaid0825@gmail.com**
+- 📫 How to reach me **ameerjunaid08@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/syed-ameer-junaid-792144227/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://www.linkedin.com/in/syed-ameer-junaid-792144227/" height="40" width="40" /></a>
