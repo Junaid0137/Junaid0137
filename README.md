@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer.</h3>
 
 <img src="https://i.giphy.com/3iyKHMIKg5VWG6qHUm.webp" alt="Dino" width="300" height="250" align="right">
-- 🔭 I’m currently working on **Amazon Clone using React**
+- 🔭 I’m currently working on **Collaborative Notes App**
 
 - 👯 I’m looking to collaborate on **any projects related to frontend.**
 
